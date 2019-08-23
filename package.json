@@ -1,6 +1,6 @@
 {
   "name": "koa-logger-sls",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "kog logger aliyun sls",
   "main": "index.js",
   "scripts": {
